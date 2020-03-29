@@ -1,0 +1,4 @@
+﻿D:\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : 文件“d:\github\sudoku\suduku_131700101\src\sudoku\debug\sudoku.pch”正由另一进程使用，因此该进程无法访问此文件。
+  pch.cpp
+  Sudoku.cpp
+  Sudoku.vcxproj -> D:\github\sudoku\suduku_131700101\src\Debug\Sudoku.exe
